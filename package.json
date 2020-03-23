@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "autod": "^2.8.0",
-    "egg": "^1.4.0",
+    "egg": "^2.26.0",
     "egg-bin": "^3.4.2",
     "egg-mock": "^3.7.2",
     "eslint": "^4.0.0",
